@@ -1,0 +1,39 @@
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.exe.config
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.exe
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.pdb
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.AssemblyReference.cache
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Login.resources
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Properties.Resources.resources
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.GenerateResource.cache
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.CoreCompileInputs.cache
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.exe
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.pdb
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Menu.resources
+C:\Users\Rizki\source\repos\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Loading.resources
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Loading.resources
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Login.resources
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Menu.resources
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Properties.Resources.resources
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.exe
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.pdb
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.AssemblyReference.cache
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.SuggestedBindingRedirects.cache
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Loading.resources
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Login.resources
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Menu.resources
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.Properties.Resources.resources
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.GenerateResource.cache
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.csproj.CoreCompileInputs.cache
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.exe
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\obj\Debug\TugasBesarPBO.pdb
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.exe.config
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.exe
+D:\Tugas besar pbo\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.pdb
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.exe.config
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.exe
+C:\Users\ACER\Downloads\TugasBesarPBO\TugasBesarPBO\bin\Debug\TugasBesarPBO.pdb
